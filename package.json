@@ -1,0 +1,22 @@
+{
+  "name": "lodown-juliaecaro",
+  "version": "1.0.0",
+  "description": "my first npm package lodown library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliaecaro/lodown.git"
+  },
+  "author": "Julia Caro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliaecaro/lodown/issues"
+  },
+  "homepage": "https://github.com/juliaecaro/lodown#readme"
+}
